@@ -1,0 +1,41 @@
+Listing Basic
+ [x] Exception thrown with empty data
+ [x] Exception thrown with empty id
+ [x] Exception thrown with empty title
+ [x] New object is created
+ [x] Get status returns basic
+ [x] Get id returns right data
+ [x] Get title returns right data
+ [x] Get website returns right data
+ [x] Get email returns right data
+ [x] Get twitter returns right data
+ [x] To array creates array with key id
+ [x] To array creates array with key title
+ [x] To array creates array with key website
+ [x] To array creates array with key email
+ [x] To array creates array with key twitter
+ [x] To array creates array with right id
+ [x] To array creates array with right title
+ [x] To array creates array with right website
+ [x] To array creates array with right email
+ [x] To array creates array with right twitter
+ [x] Empty website has null value
+ [x] Http gets added to website right value
+ [x] Check set website directly
+ [x] Status get set the right value
+ [x] Status get set the right value
+
+Listing Featured
+ [x] Get status returns featured
+ [x] Get coc returns expected
+
+Listing Image
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+Listing Premium
+ [x] Get status returns premium
+ [x] Get description returns expected
+ [x] Display allowed tags returns expected
+
